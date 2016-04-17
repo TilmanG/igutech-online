@@ -1,0 +1,8 @@
+<html>
+<head>
+<title> Tilman's PHP test page! </title>
+</head>
+<body>
+<?php echo '<p> IT WORKS! </p>'; ?>
+</body>
+</html>
